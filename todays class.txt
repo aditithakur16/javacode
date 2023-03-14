@@ -1,0 +1,7 @@
+react use ref hook
+local storage-(light weight hoti h, unique id genrate hoti h backend me jb login krte h)
+input ref
+local storage- 3 type
+1) localstorage.getIem() = to access any value by its key
+2) localStorage.setItem() = to set valiue in browser
+3) localStorage.removeItem() =

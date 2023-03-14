@@ -13,7 +13,9 @@ public class PatternEight {
                     System.out.print("\t");
                 }
             }
-            System.out.println();
+            System.out.println(
+                
+            );
         }
     }
 }

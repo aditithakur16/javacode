@@ -21,7 +21,6 @@ public class Prime {
             else{
                 System.out.println("not prime");
             }
-  
         }
     
     }
